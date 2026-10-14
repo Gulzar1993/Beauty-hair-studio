@@ -1,0 +1,20 @@
+{
+  "name": "beauty-hair-studio",
+  "version": "1.0.0",
+  "description": "A responsive landing page for a fictional hair salon, built as a front-end demo with plain HTML, CSS, and JavaScript — no frameworks, no build step, no backend.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gulzar1993/Beauty-hair-studio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gulzar1993/Beauty-hair-studio/issues"
+  },
+  "homepage": "https://github.com/Gulzar1993/Beauty-hair-studio#readme"
+}
